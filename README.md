@@ -1,7 +1,7 @@
 <h2 align="center">Hey There! 👋</h2>
 
 <p align="center">
-  I'm a backend developer and DevOps engineer who specializes in TypeScript/Javascript and AWS solutions.
+  I'm a backend developer and DevOps engineer who specializes in TypeScript/JavaScript and AWS solutions.
 </p>
 
 ## 🛠 My stack
