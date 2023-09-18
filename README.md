@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## 🎮 I play with
+## 🎮 I play with / learn
 
 <p align="center">
   <a href="#">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-## 📈 My stats
+## 👾 Player stats
 
 <p align="center">
   <a href="#">
