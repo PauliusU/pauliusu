@@ -19,9 +19,9 @@
 
 <p align="center">
   <a href="#">
-    <img 
-      src="https://skillicons.dev/icons?i=python,rust,lua,react,nextjs,tailwindcss,prisma"
-      alt="Python, Rust, Lua, React, Next.js, TailwindCSS, Prisma">
+    <img
+      src="https://skillicons.dev/icons?i=python,rust,go,lua,nextjs,react,tailwindcss,prisma"
+      alt="Python, Rust, Go, Lua, Next.js, React, TailwindCSS, Prisma">
   </a>
 </p>
 
